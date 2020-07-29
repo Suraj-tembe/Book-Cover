@@ -1,0 +1,115 @@
+.container{
+    height: 500px;
+    width: 350px;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    border: 1.2px solid rgb(200,200,200);
+    left: 50%;
+    right: 50%;
+
+}
+.box1{
+    width: 350px;
+    height: 100px;
+    background: repeating-linear-gradient(-45deg, rgb(200,200,200), rgb(200,200,200) 0.5px, white ,white 2px);
+}
+    
+.box2{
+    width: 350px;
+    height: 150px;
+    background: white ;
+    
+
+}
+.box3{
+    width: 350px;
+    height: 240px;
+    background: rgba(255,255,0)  ;
+  
+
+}
+
+h3{
+    display: block;
+    background-color: rgb(60,60,60);
+    color: aliceblue;
+    float: left;
+    margin-left: 20px;
+    margin-top: 0px;
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p1{
+    font-size: 8.2px;
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    left: 150px;
+    float: right;
+    display: block;
+    color: rgb(60,60,60);
+}
+.p2{
+    font-size: 8px;
+    position: absolute;
+    left: 208px;
+    top: 40px;
+    color: rgb(60,60,60);
+}
+.p3{
+    font-size: 18PX;
+    position: absolute;
+    left: 196px;
+    top: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(60,60,60);
+    font-stretch: ultra-expanded;
+}
+ h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    font-size: 70px;
+    font-stretch: extra-condensed;
+    position: relative;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    text-align: right;
+    color: rgb(60,60,60);
+    word-spacing: -1px;
+    line-height: 77px;
+}
+.cross{
+    background: repeating-linear-gradient(-45deg, rgb(200,200,200), rgb(200,200,200) 0.5px, white ,white 2px);
+    height: 10px;
+    width: 35px;
+    position: absolute;
+    right: 2px;
+    top: 70px;
+}
+ h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-stretch: expanded;
+    text-align: right;
+    font-size: 230px;
+    position: relative;
+    
+    right: 15px;
+    margin: 5px;
+    color: rgb(60,60,60);
+
+    
+    
+}
+.p4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: yellow;
+    font-weight: bold;
+    position: absolute;
+    left: 67px;
+    top: 355px;
+    transform: rotate(-90deg);
+}
+
